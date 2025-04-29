@@ -1,7 +1,7 @@
 export function getPersons(): {
   name: string;
   age: number;
-  gender: 'male' | 'female';
+
 }[];
 
 export function personToString(
